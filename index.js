@@ -1,1 +1,1 @@
-console.log("Será que el JS funciona?")
+console.log("El JS funciona!")
